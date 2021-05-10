@@ -1,3 +1,4 @@
-.vjs-countdown-modal {
-background-color: black; !important
+.vjs-modal-dialog-content{
+background-color: black !important;
+  background-image:none !important;
 }
